@@ -13,4 +13,4 @@
 
 ---
 
-![pic](./twitter_ESKwiXOVUAEoKRd.jpg)
+![pic](https://github.com/dwbaron/dwbaron/blob/master/twitter_ESKwiXOVUAEoKRd.jpg)
