@@ -13,4 +13,4 @@
 
 ---
 
-![pic](./bg.png)
+![pic](./twitter_ESKwiXOVUAEoKRd.jpg)
