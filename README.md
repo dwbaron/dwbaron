@@ -5,12 +5,12 @@
 
 ---
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on `ML` | `NLP` | `KG` | `CV`
 - 🌱 I’m currently learning `C++` | `Game Programming`
 - 👯 I’m looking to collaborate on `X File`
 - 🤔 I’m looking for help with `compiling from source code` 
-- ⚡ Fun fact: we are the star dust ~ Entropy increase is inevitable
+- ⚡ Fun fact: we are the star dust ~ Entropy increase is inevitable ~ I love ACG
 
---> more coming soon ... ...
+---
+
+![pic](./bg.png)
